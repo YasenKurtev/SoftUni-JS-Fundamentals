@@ -13,4 +13,4 @@ The main topics are:
 9. Regular Expressions
 
 Each topic contains three main categories - Lab, Exercise ans More Exercise
-The descriptions for the different tasks are included in each folder.
+The descriptions for the different tasks are included in the README.md file in each folder.
